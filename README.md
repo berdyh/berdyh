@@ -15,13 +15,17 @@ I'm now driving toward building hardware-enabled, agentic tools and launch-ready
   </td>
     <td width="45%" valign="top" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdyh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
+      
+  ![Commits](https://img.shields.io/badge/commits-227-blue?style=flat-square)  ![Experience](https://img.shields.io/badge/experience-24pt-orange?style=flat-square) ![Followers](https://img.shields.io/badge/followers-2pt-lightgrey?style=flat-square) ![Repos](https://img.shields.io/badge/repos-9pt-blueviolet?style=flat-square)
     </td>
   </tr>
 </table>
 
----
 
 <!-- Stats widgets with matching width -->
+<!--
+![Languages](https://img.shields.io/badge/languages-5-yellowgreen?style=flat-square)
+---
 <table>
   <tr>
     <td width="56.5%" align="center" style="border: none;">
@@ -32,13 +36,14 @@ I'm now driving toward building hardware-enabled, agentic tools and launch-ready
     </td>
   </tr>
 </table>
-
+-->
 <!-- Compact trophies -->
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=berdyh&theme=onedark&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Experience,Repositories,Followers&column=-1&margin-w=6&margin-h=6" alt="Profile Trophies" />
 </p>
-
----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berdyh&theme=github-compact)
+-->
 
 <div align="right">
   <a href="https://www.linkedin.com/in/shoh-berd/">
@@ -48,3 +53,4 @@ I'm now driving toward building hardware-enabled, agentic tools and launch-ready
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X">
   </a>
 </div>
+
