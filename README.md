@@ -1,49 +1,42 @@
 # Shoh Berdy
 
-<table>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Dev Quote" align="right" />
+
+<table style="border: none; border-collapse: collapse; width: 100%; margin-top: -15px;">
   <tr>
-    <td width="55%" valign="top" style="border: none;">
+    <td style="border: none; padding: 0; vertical-align: top; width: 60%;">
+
       
-Final-year Math & Biomedical Engineering student at RWTH Aachen.
+### About Me
 
-I design and implement algorithmic solutions and simulation frameworks for medical-device R&D and visualization pipelines.
+Final-year **Math & Biomedical Engineering** student at RWTH Aachen.
 
-At Fraunhofer ILT, I built tools for point-cloud processing, accelerated ray-tracing by 10×, and developed interpolation modules for OCT-based surgical calibration.
+I designed and implemented algorithmic solutions and simulation frameworks for medical-device R&D and visualization pipelines.
 
-I'm now driving toward building hardware-enabled, agentic tools and launch-ready ventures at the intersection of ML and health tech.
+At **Fraunhofer ILT**, I developed tools for point-cloud processing, accelerated ray-tracing by **10x**, and created interpolation modules for OCT-based surgical calibration.
+
+I'm now driving toward building hardware-enabled, agentic tools and launch-ready ventures at the intersection of **ML and health tech**.
 
   </td>
-    <td width="45%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdyh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
+  <td style="border: none; padding: 0; vertical-align: top; width: 40%;">
       
-  ![Commits](https://img.shields.io/badge/commits-227-blue?style=flat-square)  ![Experience](https://img.shields.io/badge/experience-24pt-orange?style=flat-square) ![Followers](https://img.shields.io/badge/followers-2pt-lightgrey?style=flat-square) ![Repos](https://img.shields.io/badge/repos-9pt-blueviolet?style=flat-square)
-    </td>
+<div align="center">
+
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berdyh&layout=compact&theme=dark&hide_border=true&card_width=320)
+<div align="center">
+
+![Commits](https://img.shields.io/badge/commits-227-blue?style=flat-square&logo=github)
+![Experience](https://img.shields.io/badge/experience-24pt-orange?style=flat-square&logo=star)
+![Followers](https://img.shields.io/badge/followers-2pt-lightgrey?style=flat-square&logo=github)
+![Repos](https://img.shields.io/badge/repos-9pt-blueviolet?style=flat-square&logo=git)
+
+</div>
+
+</div>
+
+  </td>
   </tr>
 </table>
-
-
-<!-- Stats widgets with matching width -->
-<!--
-![Languages](https://img.shields.io/badge/languages-5-yellowgreen?style=flat-square)
----
-<table>
-  <tr>
-    <td width="56.5%" align="center" style="border: none;">
-      <img src="https://greptile-stats.vercel.app/api/widget/berdyh/stats" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="45%" align="center" style="border: none;">
-      <img src="https://greptile-stats.vercel.app/api/widget/berdyh/contributions" alt="GitHub Contributions" width="100%" />
-    </td>
-  </tr>
-</table>
--->
-<!-- Compact trophies -->
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=berdyh&theme=onedark&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Experience,Repositories,Followers&column=-1&margin-w=6&margin-h=6" alt="Profile Trophies" />
-</p>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berdyh&theme=github-compact)
--->
 
 <div align="right">
   <a href="https://www.linkedin.com/in/shoh-berd/">
