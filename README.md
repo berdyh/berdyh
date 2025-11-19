@@ -15,8 +15,6 @@ I designed and implemented algorithmic solutions and simulation frameworks for m
 
 At **Fraunhofer ILT**, I developed tools for point-cloud processing, accelerated ray-tracing by **10x**, and created interpolation modules for OCT-based surgical calibration.
 
-I'm now driving toward building hardware-enabled, agentic tools and launch-ready ventures at the intersection of **ML and health tech**.
-
   </td>
   <td style="border: none; padding: 0; vertical-align: top; width: 40%;">
       
