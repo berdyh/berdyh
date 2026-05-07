@@ -1,40 +1,32 @@
-# Shoh Berdy
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Dev Quote" align="right" />
-<table style="border: none; border-collapse: collapse; width: 100%; margin-top: -15px;">
-  <tr>
-    <td style="border: none; padding: 0; vertical-align: top; width: 60%;">
-      
-### About Me
-Final-year **Mathematics & Electrical Engineering** student at RWTH Aachen.  
-I design and implement algorithmic solutions and simulation frameworks for medical-device R&D and visualization pipelines.  
-At **Fraunhofer ILT**, I built surgical-device calibration tooling, a novel interpolation algorithm, and accelerated ray-tracing by **~10x** — all shipped and actively used in the lab.  
-Selected as **IDEA League delegate** (top 8 from RWTH) for secure ML in electronic health record systems.
-  </td>
-    <td style="border: none; padding: 0; vertical-align: top; width: 40%;">
+  # Shoh Berdy
 
-<div align="center">
+  Math + Electrical Engineering @ RWTH Aachen.
+  I build agentic tools, HDL/FPGA workflows, and medical-device software.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  **Fraunhofer ILT:** built surgical-device calibration tooling, a custom 3D surface interpolation algorithm for OCT-guided workflows, and sped up a ray-tracing simulator by ~10x. Used in the lab.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=berdyh&theme=dark&hide_border=true&card_width=320&v=1)
+  ## Selected Builds
 
-</div>
-  </td>
-  </tr>
-</table>
-<div align="right">
-  <a href="https://www.linkedin.com/in/shoh-berd/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/shohberd">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X">
-  </a>
-</div>
+  - [skill-from-docs](https://github.com/berdyh/skill-from-docs): docs -> provenance-backed bundles for reliable coding-agent integration skills. Cut integration work from ~1 day to ~30 min for startup teams in
+  Uzbekistan.
+  - [Readable](https://github.com/berdyh/readable): research-paper reader with arXiv ingestion, grounded Q&A, and a Notion-style editor.
+  - [Email Agent](https://github.com/berdyh/email-agent): local Gmail workflow app with multi-agent actions, clustering, digests, CLI, and web UI.
+  - [Time Manager](https://github.com/berdyh/time-manager): pre-alpha CLI for turning end-of-day prose into structured events and scheduling suggestions.
+
+  ## Stack
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white)
+  ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+  ## Links
+
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/shoh-berd/)
+  [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shohberd)
+  [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/berdyh)
