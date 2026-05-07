@@ -24,7 +24,7 @@ Selected as **IDEA League delegate** (top 8 from RWTH) for secure ML in electron
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berdyh&theme=dark&hide_border=true&card_width=320)
+![GitHub Streak](https://streak-stats.demolab.com/?user=berdyh&theme=dark&hide_border=true&card_width=320&v=1)
 
 </div>
   </td>
