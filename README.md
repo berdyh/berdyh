@@ -1,17 +1,45 @@
-  # Shoh Berdy
+# Shoh Berdy
 
-  Math + Electrical Engineering @ RWTH Aachen.
-  I build agentic tools, HDL/FPGA workflows, and medical-device software.
+Math + Electrical Engineering @ RWTH Aachen.
+I build agentic tools, HDL/FPGA workflows, and medical-imaging software.
 
-  **Fraunhofer ILT:** built surgical-device calibration tooling, a custom 3D surface interpolation algorithm for OCT-guided workflows, and sped up a ray-tracing simulator by ~10x. Used in the lab.
+**Fraunhofer ILT (2022–2024):** surgical-device calibration tooling; a 3D
+interpolation algorithm for computing cut paths on scanned surfaces with no
+closed-form representation, for OCT-guided workflows; and a ~10× speedup of a
+ray-tracing simulator. Used in the lab.
 
-  ## Selected Builds
+## Selected builds
 
-  - [skill-from-docs](https://github.com/berdyh/skill-from-docs): docs -> provenance-backed bundles for reliable coding-agent integration skills. Cut integration work from ~1 day to ~30 min for startup teams in
-  Uzbekistan.
-  - [Readable](https://github.com/berdyh/readable): research-paper reader with arXiv ingestion, grounded Q&A, and a Notion-style editor.
-  - [Email Agent](https://github.com/berdyh/email-agent): local Gmail workflow app with multi-agent actions, clustering, digests, CLI, and web UI.
-  - [Time Manager](https://github.com/berdyh/time-manager): pre-alpha CLI for turning end-of-day prose into structured events and scheduling suggestions.
+- **[skill-from-docs](https://github.com/berdyh/skill-from-docs)** — turns a
+  tool's documentation into a provenance-backed bundle a coding agent can work
+  from. Built for integrating poorly-documented APIs from Uzbek companies; took
+  that work from roughly a day to roughly 30 minutes.
+- **[email-agent](https://github.com/berdyh/email-agent)** — local Gmail client
+  where you define your own actions: semantic filters, summaries shaped to what
+  you need, whatever the mailbox should do for you. Runs against a local coding
+  agent or OpenRouter models. CLI and web UI.
+- **[tab-organizer](https://github.com/berdyh/tab-organizer)** — pulls open
+  Chrome tabs over CDP, embeds and clusters them, answers questions across the
+  set. Mid-migration to TypeScript.
+- **[readable](https://github.com/berdyh/readable)** — arXiv ingestion,
+  grounded Q&A over papers, concept tracking. Deployed.
+
+<!-- Private for now; uncomment as each gets a public URL.
+
+- **[mripool](URL)** — zero-install browser DICOM/MRI viewer. Studies open
+  from a QR share link; built for patients and clinics in Uzbekistan.
+- **[dicom-analysis](URL)** — headless DICOM analysis pipeline: scan, load,
+  quantify, QC, emit. Every sentence in the output report traces back to a
+  measured number.
+- **[time-manager](URL)** — turns an end-of-day prose debrief into a structured
+  private event log, links work back to your goals, and suggests the next
+  action. Local SQLite, CLI and web cockpit.
+- **[humora](URL)** — B2B company-intelligence platform for bank risk teams
+  in Uzbekistan.
+- **[being-in-the-loop](URL)** — runs a documenter agent alongside your main
+  agent, keeping a live dashboard of what it's deciding and why.
+
+-->
 
   ## Stack
 
