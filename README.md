@@ -1,60 +1,38 @@
 # Shoh Berdy
 
-Math + Electrical Engineering @ RWTH Aachen.
-I build agentic tools, HDL/FPGA workflows, and medical-imaging software.
+Math + Electrical Engineering @ RWTH Aachen. I build tools around local coding agents, FPGA/HDL workflows, and medical-imaging software.
 
-**Fraunhofer ILT (2022–2024):** surgical-device calibration tooling; a 3D
-interpolation algorithm for computing cut paths on scanned surfaces with no
-closed-form representation, for OCT-guided workflows; and a ~10× speedup of a
-ray-tracing simulator. Used in the lab.
+I'm working part-time on **[Bayanmed](https://bayanmed.uz)** — open MRI and CT scans in your browser and share studies through a link or QR code. Built for patients, families, and clinics in Uzbekistan.
 
-## Selected builds
+## Building now
 
-- **[skill-from-docs](https://github.com/berdyh/skill-from-docs)** — turns a
-  tool's documentation into a provenance-backed bundle a coding agent can work
-  from. Built for integrating poorly-documented APIs from Uzbek companies; took
-  that work from roughly a day to roughly 30 minutes.
-- **[email-agent](https://github.com/berdyh/email-agent)** — local Gmail client
-  where you define your own actions: semantic filters, summaries shaped to what
-  you need, whatever the mailbox should do for you. Runs against a local coding
-  agent or OpenRouter models. CLI and web UI.
-- **[tab-organizer](https://github.com/berdyh/tab-organizer)** — pulls open
-  Chrome tabs over CDP, embeds and clusters them, answers questions across the
-  set. Mid-migration to TypeScript.
-- **[readable](https://github.com/berdyh/readable)** — arXiv ingestion,
-  grounded Q&A over papers, concept tracking. Deployed.
+Interfaces and tools for the agents you already run. First releases in progress:
 
-<!-- Private for now; uncomment as each gets a public URL.
+- **[Readable](https://readable.berdyh.com)** — read research papers with source-grounded answers, explanations of unfamiliar concepts, and a record of what you're learning.
+- **[Tab Organizer](https://tab-organizer.berdyh.com)** — turn open tabs into a searchable research library: capture pages, group related content, and ask questions across your sources.
+- **[Email Agent](https://email-agent.berdyh.com)** — make Gmail work your way with custom agent-powered actions, summaries, and digests. Review proposed mailbox changes before applying them.
 
-- **[mripool](URL)** — zero-install browser DICOM/MRI viewer. Studies open
-  from a QR share link; built for patients and clinics in Uzbekistan.
-- **[dicom-analysis](URL)** — headless DICOM analysis pipeline: scan, load,
-  quantify, QC, emit. Every sentence in the output report traces back to a
-  measured number.
-- **[time-manager](URL)** — turns an end-of-day prose debrief into a structured
-  private event log, links work back to your goals, and suggests the next
-  action. Local SQLite, CLI and web cockpit.
-- **[humora](URL)** — B2B company-intelligence platform for bank risk teams
-  in Uzbekistan.
-- **[being-in-the-loop](URL)** — runs a documenter agent alongside your main
-  agent, keeping a live dashboard of what it's deciding and why.
+### Accepting waitlist
 
--->
+- **[TTC](https://ttc.berdyh.com)** — a three-tier coding-agent harness for planning, implementation, and independent verification, with RL optimization in development.
+- **[Time Manager](https://time-manager.berdyh.com)** — turn daily reflections into a private, goal-linked activity log. Discover patterns in how you work and choose a concrete next action.
 
-  ## Stack
+## Other projects
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logoColor=white)
-  ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat-square&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **Narrate** — read structured text aloud with natural pauses, stopping at diagrams, equations, and code so you can inspect them. Built for Linux / Hyprland.
+- **HDL Agent** — a verification-first FPGA/RTL assistant that repairs Verilog against simulation and synthesis checks, keeping an evidence trail for each run.
 
-  ## Links
+## Selected public work
 
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/shoh-berd/)
-  [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shohberd)
-  [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/berdyh)
+- **[skill-from-docs](https://github.com/berdyh/skill-from-docs)** — gather scattered tool documentation into a source-backed bundle, ready to become a coding-agent integration skill.
+- **[Clinical transcript extraction](https://github.com/berdyh/med-recoding2structured-data)** — turn GP consultation transcripts into structured records for symptoms, medications, findings, and follow-up plans.
+
+## Previously
+
+**Fraunhofer ILT (2022–2024):** surgical-device calibration tooling; a 3D interpolation algorithm for computing cut paths on scanned surfaces with no closed-form representation, for OCT-guided workflows; and a ~10× speedup of a ray-tracing simulator. Used in the lab.
+
+## Tools
+
+Python · TypeScript · C++ · Verilog / VHDL · PyTorch · Next.js · Docker · Linux
+
+[Website](https://berdyh.com) · [LinkedIn](https://www.linkedin.com/in/shoh-berd/) · [X](https://x.com/shohberd) · [GitLab](https://gitlab.com/berdyh)
