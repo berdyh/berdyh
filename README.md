@@ -2,9 +2,9 @@
 
 Math + Electrical Engineering @ RWTH Aachen. I build tools around local coding agents, FPGA/HDL workflows, and medical-imaging software.
 
-I'm working part-time on **[Bayanmed](https://bayanmed.uz)** — open MRI and CT scans in your browser and share studies through a link or QR code. Built for patients, families, and clinics in Uzbekistan.
-
 ## Building now
+
+**[Bayanmed](https://bayanmed.uz)** — open MRI and CT scans in your browser and share studies through a link or QR code.
 
 Interfaces and tools for the agents you already run. First releases in progress:
 
